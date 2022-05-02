@@ -8,22 +8,24 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
+            <RowDefinition Height="1.5*"/>
             <RowDefinition Height="1.5*" />
             <RowDefinition Height="12*" />
         </Grid.RowDefinitions>
 
-        <Canvas Margin="10">
-            <StackPanel Grid.Row="0" HorizontalAlignment="Center" Orientation="Horizontal">
+        <Canvas Margin="47" HorizontalAlignment="Left">
+            <StackPanel Grid.Row="1" HorizontalAlignment="Center" Orientation="Horizontal">
             <Button Click="Back_Bttn" Height="30" Width="40">&lt;</Button>
             <Button Content="SignInPage" Height="30" Click="SignInPage_Btt_Click" Grid.Row="0" Width="100"/>
             <Button Content="SignUpPage" Height="30" Click="SignUpPage_Btt_Click" Grid.Row="0" Width="100"/>
             <Button Content="HomePage"  Height="30" Click="HomePage_Btt_Click" Grid.Row="0" Width="100"/>
-            <Button Content="BookDetails" Height="30" Click="Book_Btt_Click" Grid.Row="0" Width="100"/>
+            <Button Content="ProfilePage" Height="30" Click="Book_Btt_Click" Grid.Row="0" Width="100"/>
+            <Button Content="BookRent" Height="30" Click="BookRent_Btt_Click" Grid.Row="0" Width="100"/>
             <Button  Click="Forward_Bttn" Height="30" Width="40">&gt;</Button>
         </StackPanel>
       </Canvas>
         
-        <Frame Grid.Row="1" Name="MainwindowFrame" >
+        <Frame Grid.Row="2" Name="MainwindowFrame" >
             
         </Frame>
         

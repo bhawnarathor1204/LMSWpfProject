@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Bhawna Rathor\source\repos\LMS\LMS\App.xaml
-51351682974
+6-402735303
 
-91616189084
+10136994923
 1941645785384
-MainWindow.xaml;Pages\BookDetails.xaml;Pages\HomePage.xaml;Pages\SignIn.xaml;Pages\SignUp.xaml;
+MainWindow.xaml;Pages\BookRentPage.xaml;Pages\HomePage.xaml;Pages\ProfilePage.xaml;Pages\SignIn.xaml;Pages\SignUp.xaml;
 
-False
+True
 

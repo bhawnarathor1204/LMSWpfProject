@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace LMS.Pages
 {
     /// <summary>
-    /// Interaction logic for BookDetails.xaml
+    /// Interaction logic for ProfilePage.xaml
     /// </summary>
-    public partial class BookDetails : Page
+    public partial class ProfilePage : Page
     {
-        public BookDetails()
+        public ProfilePage()
         {
             InitializeComponent();
         }

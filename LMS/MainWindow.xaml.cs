@@ -24,15 +24,16 @@ namespace LMS
         public SignIn signInPage;
         public SignUp signUpPage;
         public HomePage homePage;
-        public BookDetails bookDetails;
+        public ProfilePage profile;
+        public BookRentPage bookRentPage;   
         public MainWindow()
         {
             InitializeComponent();
             signInPage=new SignIn();
             signUpPage=new SignUp();
             homePage=new HomePage();
-            bookDetails=new BookDetails();
-
+            profile = new ProfilePage();
+            bookRentPage=new BookRentPage();
 
         }
 
@@ -69,7 +70,12 @@ namespace LMS
 
         private void Book_Btt_Click(object sender, RoutedEventArgs e)
         {
-            MainwindowFrame.Content = bookDetails;
+            MainwindowFrame.Content = profile;
+        }
+
+        private void BookRent_Btt_Click(object sender, RoutedEventArgs e)
+        {
+            MainwindowFrame.Content = bookRentPage;
         }
     }
 }

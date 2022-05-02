@@ -25,5 +25,7 @@ C:\Users\Bhawna Rathor\source\repos\LMS\LMS\obj\Debug\net6.0-windows\LMS.genrunt
 C:\Users\Bhawna Rathor\source\repos\LMS\LMS\obj\Debug\net6.0-windows\ref\LMS.dll
 C:\Users\Bhawna Rathor\source\repos\LMS\LMS\obj\Debug\net6.0-windows\Pages\HomePage.g.cs
 C:\Users\Bhawna Rathor\source\repos\LMS\LMS\obj\Debug\net6.0-windows\Pages\HomePage.baml
-C:\Users\Bhawna Rathor\source\repos\LMS\LMS\obj\Debug\net6.0-windows\Pages\BookDetails.g.cs
-C:\Users\Bhawna Rathor\source\repos\LMS\LMS\obj\Debug\net6.0-windows\Pages\BookDetails.baml
+C:\Users\Bhawna Rathor\source\repos\LMS\LMS\obj\Debug\net6.0-windows\Pages\BookRentPage.g.cs
+C:\Users\Bhawna Rathor\source\repos\LMS\LMS\obj\Debug\net6.0-windows\Pages\ProfilePage.g.cs
+C:\Users\Bhawna Rathor\source\repos\LMS\LMS\obj\Debug\net6.0-windows\Pages\BookRentPage.baml
+C:\Users\Bhawna Rathor\source\repos\LMS\LMS\obj\Debug\net6.0-windows\Pages\ProfilePage.baml
